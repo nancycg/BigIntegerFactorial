@@ -1,0 +1,37 @@
+Welcome to my factorial program!
+Please choose from the following:
+1. Run Program
+2. Exit Program
+:
+1
+
+This program will determine the factorial value of positive integers.
+
+
+The starting number is 1.
+Please enter an ending integer value: 
+10
+1! = 1
+2! = 2
+3! = 6
+4! = 24
+5! = 120
+6! = 720
+7! = 5040
+8! = 40320
+9! = 362880
+10! = 3628800
+Run factorial program again? (Y for Yes, N for No):
+y
+
+The starting number is 1.
+Please enter an ending integer value: 
+5
+1! = 1
+2! = 2
+3! = 6
+4! = 24
+5! = 120
+Run factorial program again? (Y for Yes, N for No):
+n
+Thank you for using the factorial program! Goodbye!

@@ -1,0 +1,7 @@
+Welcome to my factorial program!
+Please choose from the following:
+1. Run Program
+2. Exit Program
+:
+2
+Exit.
